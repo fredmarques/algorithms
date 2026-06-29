@@ -1,68 +1,114 @@
 # Lesson {{NUMBER}} — {{TITLE}}
 
-## Metadata
-
-- Duration: 30–60 minutes
-- Difficulty: ⭐☆☆☆☆–⭐⭐⭐⭐⭐
-- Prerequisites:
-- Related lessons:
+> **Estimated time:** 45 minutes
+>
+> **Reading:** ~15 minutes
+>
+> **Coding:** ~20 minutes
+>
+> **Exercises:** ~10 minutes
 
 ---
 
 # Opening Question
 
-Start every lesson with a single thought-provoking question.
+Start with one thought-provoking question.
 
-The question should create curiosity and motivate the need for the concept before introducing any theory.
-
-Good examples:
-
-- How does Google search billions of pages so quickly?
-- How can you find a word in a 2,000-page dictionary?
-- Why is sorting one million numbers faster than you might expect?
-
-The lesson should answer this question by the end.
+The entire lesson should answer this question by the end.
 
 ---
 
-## Objectives
+# What You'll Learn
 
-## Introduction
+- ...
+- ...
+- ...
 
-## Motivation
+---
 
-## The Problem
+# Why Does This Matter?
 
-## Intuition
+Explain why this concept exists.
 
-## Theory
+Keep it short.
 
-## Examples
+The reader should understand why they are about to spend the next 45 minutes learning this topic.
 
-## Diagrams
+---
 
-## Internal Mechanics
+# The Idea
 
-## Implementation
+Explain the intuition first.
 
-## Complexity Analysis
+Avoid formal definitions here.
 
-## Real-world Applications
+Build the mental model before naming the concept.
 
-## Common Mistakes
+---
 
-## Summary
+# Theory
 
-## Exercises
+Present the formal definition.
 
-### Conceptual
+Only include what is necessary to understand the concept.
 
-### Implementation
+Avoid unnecessary academic detail.
 
-### Challenge
+---
 
-## LeetCode Practice
+# Example
 
-## Project (optional)
+Provide one complete example.
 
-## Mastery Checklist
+Prefer examples that connect to algorithms, data structures, systems, or real programming work.
+
+---
+
+# Implementation
+
+Implement the concept in C when possible.
+
+Use another language only when it makes the idea clearer.
+
+---
+
+# Complexity
+
+Explain time and space complexity only when relevant to this lesson.
+
+---
+
+# Exercises
+
+## Understanding
+
+Add 2–3 conceptual questions.
+
+## Coding
+
+Add 1–2 implementation exercises.
+
+## LeetCode
+
+Add up to 3 related problems:
+
+- 2 Easy
+- 1 Medium
+
+Explain why each problem is relevant.
+
+---
+
+# Summary
+
+Summarize the lesson in no more than five bullet points.
+
+---
+
+# Can You Answer?
+
+Before moving on, make sure you can answer:
+
+- [ ] ...
+- [ ] ...
+- [ ] ...
