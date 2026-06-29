@@ -4,7 +4,31 @@
 
 This course exists to provide a single, structured path for mastering algorithms and data structures.
 
-It is designed for learners who prefer depth over speed and understanding over memorization.
+It is not optimized for publishing.
+
+It is not optimized to look impressive.
+
+It is optimized for learning.
+
+---
+
+## Core principle
+
+Every lesson must maximize learning per minute.
+
+This course is optimized for learning, not for reading.
+
+Every lesson should:
+
+- answer one important question;
+- teach one primary concept;
+- take about 45 minutes to complete;
+- require more coding than reading;
+- prepare the student for the next lesson.
+
+If a lesson becomes too long, split it.
+
+If a paragraph does not help learning, remove it.
 
 ---
 
@@ -29,10 +53,10 @@ The curriculum should be followed from beginning to end.
 Every lesson must justify its existence.
 
 - No filler.
-- No unnecessary history.
+- No unnecessary history unless it directly improves understanding.
 - No repeated explanations.
 - One main concept per lesson.
-- Estimated duration: 30–60 minutes.
+- Reading time should stay around 15 minutes.
 
 If a topic becomes too large, it should be split into multiple lessons.
 
@@ -46,7 +70,7 @@ Concepts are introduced gradually, but never oversimplified.
 
 The order is always:
 
-Intuition → Visualization → Theory → Implementation → Complexity → Practice.
+Opening Question → Intuition → Theory → Implementation → Complexity → Practice.
 
 ---
 
@@ -56,11 +80,11 @@ Reading alone is never enough.
 
 Every lesson includes:
 
-- questions
-- coding exercises
-- implementation tasks
-- review
-- self-assessment
+- questions;
+- coding exercises;
+- implementation tasks;
+- review;
+- self-assessment.
 
 Learning is demonstrated by building.
 
